@@ -29,6 +29,7 @@ All data is in **papers.csv** file.
 ## Update History
 
 - **25.05.2021:** Articles before May 2021 have been added.
+- **23.08.2021:** Articles before August 2021 have been added.
 
 ## Licence
 
