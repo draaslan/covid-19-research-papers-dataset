@@ -2,6 +2,7 @@
 
 # COVID-19 Research Papers Dataset
 
+![](https://aslan.md/wp-content/uploads/2021/05/Artboard.png)
 ## Introduction
 
 This dataset includes papers containing published research results on **COVID-19**. Each paper has its **PubMed ID, DOI number, journal title, journal country, article title, authors, abstract, date of publication, and the number of citations until the date of update**. It contains more than **150,000 articles** in total. *Newly added paper and citation numbers are updated monthly.*
